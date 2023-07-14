@@ -1,0 +1,4 @@
++Event:OneNET Link:PROID: xxxx,AUIF: yyyy,DEVID:zzzzzzzzz
++Event:Connect:r
+
+注：r范围为0~6，0代表成功，1~6代表失败

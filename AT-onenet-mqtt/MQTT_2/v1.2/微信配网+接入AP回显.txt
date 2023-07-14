@@ -1,0 +1,10 @@
+﻿s$l湡|刣鄚?l?#|噧?踫沜d#捏ng?$gn溿?cpdc$s$x髈??d#g銃??#岓og?l剰l`?ogl n{嚀沢撣l`x髈?;寽溿?b'銃鋰帍c勻'o?d`?o'l`or菦?'?d8鹓?r劀茔囔dcn銃那?#捏ng?$`?gnd`gs庅搉?$`;摏g?l`{l寣n渼鹓n焺熴膡'og?d宑?$?搇?洆??弆$l~;l?抎dl'溾?$沴dl?沴寪g鄰'鋼n膭dl鄝cl$xc?cs倢靗 gd噋匿d`cl l挍o焠寭鉭d焲#ld`;l?{?豤専銊cl刢s|lb溿?c|?烨忇c祗o顎o'?刲g?弻l剰l$寗l屼宒`?n?専鈩cll巤p臒銓#$刢?l{l屻?僩溘s凃'|?刲巟s$?;g?哙弐'g済?靹溰?渪?bcgn?c|?s{g搇?$`b脙n???r{oo?'?鋵湝躣湈cc'o?c靸s;g??$?'???;sn'済?淠湝?惸cc'o?c|?r{o?$宒`?
+China Mobile OneNET
+SDK version: 1.5.0-dev(950076a)
++Event:Airkiss Ready
++Event:Airkiss Getting SSID_PSWD
++Event:Airkiss OK
+SSID = ONENET, PSWD = IOT@Chinamobile123
+OK
++Event:WIFI CONNECTED
++Event:WIFI GOT IP
